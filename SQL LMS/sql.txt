@@ -2,3 +2,6 @@
 But Javohir Jo’rahodjayev said that you don't have to solve them except you want to learn SQL. 
 Because in real interviews, you can't face those problems, instead he suggested this website: https://www.stratascratch.com/
 
+----------------------------------------------------------
+Today 03.05.2026
+This my leetcode SQL Top-50 problems solutions repo: https://github.com/dilrabo-vic24/SQL-TOP-50.git
