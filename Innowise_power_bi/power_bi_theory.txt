@@ -1,0 +1,11 @@
+Microsoft Power BI learning
+
+1. Get Started
+https://learn.microsoft.com/en-us/training/modules/get-started-with-power-bi/
+
+2. Get Data
+https://learn.microsoft.com/en-us/training/modules/get-data/
+
+3. Clean, transform and load data in Power BI
+https://learn.microsoft.com/en-us/training/modules/clean-data-power-bi/
+

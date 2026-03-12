@@ -1,0 +1,3 @@
+12.03.2026-----------------------------------------
+
+Today, I finished started SQL Top 50 and chose Introduction to Pandas to solve next from leetcode.

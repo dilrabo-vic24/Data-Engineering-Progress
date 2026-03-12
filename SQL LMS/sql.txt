@@ -5,3 +5,7 @@ Because in real interviews, you can't face those problems, instead he suggested 
 ----------------------------------------------------------
 Today 03.05.2026
 This my leetcode SQL Top-50 problems solutions repo: https://github.com/dilrabo-vic24/SQL-TOP-50.git
+
+Today 12.03.2026
+Today, I finished leetcode SQL Top-50 problems and Started new problems challenge.
+Its name is Introduction to pandas

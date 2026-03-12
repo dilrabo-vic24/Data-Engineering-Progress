@@ -1,0 +1,7 @@
+Help from Google AI Studio:
+https://aistudio.google.com/app/prompts?state=%7B%22ids%22:%5B%221rP-fv-nYYcEl0OxUixICRFREKetcsGe6%22%5D,%22action%22:%22open%22,%22userId%22:%22112043904271115648858%22,%22resourceKeys%22:%7B%7D%7D&usp=sharing
+
+
+
+Task repo:
+https://github.com/dilrabo-vic24/superstar_power_bi.git
