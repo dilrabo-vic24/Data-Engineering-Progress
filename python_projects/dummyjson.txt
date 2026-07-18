@@ -1,0 +1,9 @@
+https://github.com/dilrabo-vic24/python_demo_projects.git
+
+I added this first 2 projects.
+
+It was homework for Data Analitika N15
+
+This is task description:
+https://dummyjson.com/docs
+bu sitedagi API dan [carts, users, posts, recipes, products, comments] - jadvallarni olib databasega yuklaysiz.
